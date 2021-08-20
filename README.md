@@ -23,3 +23,7 @@
   <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="left" alt="Rapha-avatar" height="200" width="200" src="https://github.com/Rwilliamsc/Rwilliamsc/blob/main/avatar_facebook-sem-fundo.png">
+</div/
