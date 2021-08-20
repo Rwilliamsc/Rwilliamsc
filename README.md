@@ -1,8 +1,8 @@
-## Olá! Eu sou a Rapha Costa 
+## Olá! Eu sou a Raphael Costa 
  <div>
   <a href="https://github.com/Rwilliamsc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rwilliamsc&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwilliamsc&langs_count=8&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwilliamsc&langs_count=10&theme=vue-dark"/>
   </a> 
 
 </div>
