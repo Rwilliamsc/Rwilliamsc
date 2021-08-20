@@ -10,7 +10,7 @@
 ##
 
 - 🔭  Atualmente trabalhando com backend JavaScript (NodeJs) 
-- 🌱  Estou aprendendo mais sobre cloud computing ...
+- 🌱  Estou aprendendo mais sobre cloud computing
 - 😄  Pronomes: ele/dele
 
 ##
