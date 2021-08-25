@@ -1,4 +1,4 @@
-## Olá! Eu sou a Raphael Costa 
+## Olá! Eu sou o Raphael Costa 
  <div>
   <a href="https://github.com/Rwilliamsc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rwilliamsc&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
